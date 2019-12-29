@@ -1,0 +1,56 @@
+
+/* body font */
+body{
+	font: black;
+}
+
+/* padding for ul */
+ul{
+	padding: 0;
+}
+
+/* list style removes dots*/
+li{
+	list-style: none;
+	margin: 0;
+	padding-right: 0;
+}
+
+/* image size */
+img{
+	height:100%;
+	width:100%;
+}
+
+
+/* div padding */
+
+div{
+	padding:1%;
+}
+
+/* border settings for both borders */
+
+.borders{
+	border: 1px solid grey;
+	box-shadow: 2px 5px #C0C0C0;
+}
+
+
+
+/* center text */
+.center{
+	text-align: left;
+	margin-left: 30%;
+	margin-right: 30%;
+}
+
+/* italic font style for interesting facts */
+.do{
+	font-style: italic;
+}
+
+/* bolded labels */
+.done{
+	font-weight: bold;
+}
