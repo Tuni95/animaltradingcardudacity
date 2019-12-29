@@ -13,13 +13,16 @@ ul{
 li{
 	list-style: none;
 	margin: 0;
-	padding-right: 0;
+	padding-right: 45px;
 }
 
 /* image size */
 img{
 	height:100%;
 	width:100%;
+	padding-bottom: 15px;
+
+
 }
 
 
@@ -34,6 +37,7 @@ div{
 .borders{
 	border: 1px solid grey;
 	box-shadow: 2px 5px #C0C0C0;
+	padding: 15px;
 }
 
 
